@@ -1,0 +1,19 @@
+.container__form__login{
+    padding: 0px 2em;
+    background: #fff;
+    -webkit-box-shadow: -2px 3px 33px 6px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 3px 33px 6px rgba(0,0,0,0.75);
+    box-shadow: -2px 3px 33px 6px rgba(0,0,0,0.75);
+    border-radius: .3rem;
+}
+
+.container__form__login img{
+    width: 100%;
+    max-width: 200px;
+    display: block;
+    margin: auto;
+}
+
+.container__form__login .card-footer{
+    padding-top: 0;
+}

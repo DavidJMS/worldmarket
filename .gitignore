@@ -1,0 +1,36 @@
+# General
+/cache/
+/env/
+/output/
+*.pyc
+.env
+
+# Webpack
+/frontend/bundles/*
+/frontend/webpack_bundles/*
+/webpack-stats.json
+/jquery-webpack-stats.json
+
+
+# pycharm
+.idea/
+
+# data
+*.dump
+
+# npm
+node_modules/
+npm-debug.log
+
+
+#frontend
+web/node_modules
+web/package-lock.json
+
+#api
+api/environment
+api/config/settings/local.py
+api/db.sqlite3
+api/media/
+migrations
+__pycache__
